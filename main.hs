@@ -1,2 +1,7 @@
 main = do
-  putStrLn "Hello Haskell world!!"
+    -- indent means block ( no {}s )
+    -- here goes various operation
+    putStrLn "Hello Haskell world!!"
+    {-
+      multi line comments
+    -}
